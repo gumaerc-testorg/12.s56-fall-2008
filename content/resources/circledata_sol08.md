@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a30eacf-7d7e-bf40-5de5-c05ed6b7e35c
 resourcetype: Document
 title: Circle Data
 uid: f4c883ea-a278-a2f1-ad91-984fd70033eb

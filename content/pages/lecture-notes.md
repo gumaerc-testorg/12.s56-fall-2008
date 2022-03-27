@@ -109,7 +109,7 @@ Fieldwork in the circle. Use the theodolite to make the measurements. Students t
 Discussion of circle results obtained
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/sem07)) ([PDF 2]({{< baseurl >}}/resources/circl_data_sol08)) Proj\_3\_08.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-s56-gps-where-are-you-fall-2008/lecture-notes/Proj_3_08.m))
+([PDF 1]({{< baseurl >}}/resources/sem07)) ([PDF 2]({{< baseurl >}}/resources/circl_data_sol08)) Proj\_3\_08.m ([M]({{< baseurl >}}/resources/proj_3_08))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/sem07))

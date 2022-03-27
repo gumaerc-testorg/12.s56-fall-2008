@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3daf7e55-44e4-51b5-a6c0-8462bd0ca606
 resourcetype: Document
 title: Project 3 Solution
 uid: 49ccb323-500b-e8ad-d3a7-be13f9c3f406

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a30eacf-7d7e-bf40-5de5-c05ed6b7e35c
 resourcetype: Document
 title: GPS
 uid: 4a6aac96-4f29-4489-0b7e-258b9e09daa3
