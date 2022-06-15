@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and key dates for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: ef84381a-e73d-fda5-f4ae-f71756d8ac1d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -27,7 +33,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to seminar and what we want to during the semester. Definitions of latitude / longitude and height. Astronomical latitude and longitude determination. Set to have measurements done before Lec #2 (equinox). Write up needed for next class (see exercises in the [assignments]({{< baseurl >}}/pages/assignments) section)
+Introduction to seminar and what we want to during the semester. Definitions of latitude / longitude and height. Astronomical latitude and longitude determination. Set to have measurements done before Lec #2 (equinox). Write up needed for next class (see exercises in the {{% resource_link 3daf7e55-44e4-51b5-a6c0-8462bd0ca606 "assignments" %}} section)
 {{< tdclose >}}
 {{< tdopen >}}
  
