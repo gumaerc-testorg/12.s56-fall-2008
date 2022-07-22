@@ -5,6 +5,7 @@ file: /courses/12-s56-gps-where-are-you-fall-2008/fb8741786b0131f2e8e6a6c87b68cf
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplemental MATLAB file for Project 3.
-

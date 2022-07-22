@@ -5,6 +5,7 @@ file: /courses/12-s56-gps-where-are-you-fall-2008/bd5072a48afbec566f8e63283fe29c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on the basics of handheld GPS
-

@@ -6,6 +6,7 @@ file: /courses/12-s56-gps-where-are-you-fall-2008/15b2696add226dabf366270c77b31a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Introductory lecture presentation on GPS, latitude and longitude, astronomical determination using the sun, and astronomical position determination.
-

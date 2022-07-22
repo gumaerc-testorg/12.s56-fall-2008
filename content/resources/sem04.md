@@ -5,6 +5,7 @@ file: /courses/12-s56-gps-where-are-you-fall-2008/5696d4ed3fabeef71af89c6cb84f8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on how GPS works.
-

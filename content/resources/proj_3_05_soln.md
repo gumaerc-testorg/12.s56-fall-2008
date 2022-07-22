@@ -6,6 +6,7 @@ file: /courses/12-s56-gps-where-are-you-fall-2008/49ccb323500be8add3a7be13f9c3f4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to an assignment to use the EDM (Electronic Distance Measurement) to make measurements of the radius of a circle.
-
