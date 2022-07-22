@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides information on the three course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3daf7e55-44e4-51b5-a6c0-8462bd0ca606
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Exercise 1: Due in Lec #2
@@ -28,4 +36,4 @@ From the measurements made you are to determine:
 (a) Estimates of the radius from the main tripod measurements.  
 (b) Estimates of the radius for each rod measurements. Plot the radius as a function of angle around the center of the circle.
 
-MATLAB file for exercise 3, Proj\_3\_05.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-s56-gps-where-are-you-fall-2008/assignments/Proj_3_05.m))
+MATLAB file for exercise 3, Proj\_3\_05.m ({{% resource_link fb874178-6b01-31f2-e8e6-a6c87b68cf71 "M" %}})
