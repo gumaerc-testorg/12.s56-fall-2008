@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to an assignment to use the EDM (Electronic Distance Measurement)
   to make measurements of the radius of a circle.
 file: /courses/12-s56-gps-where-are-you-fall-2008/49ccb323500be8add3a7be13f9c3f406_proj_3_05_soln.pdf
+file_size: 243041
 file_type: application/pdf
 learning_resource_types:
 - Assignments
