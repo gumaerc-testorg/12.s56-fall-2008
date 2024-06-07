@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplement to a lecture on analysis of EDM results.
 file: /courses/12-s56-gps-where-are-you-fall-2008/bb2f208ddf2c2c63c241f759f726dc5c_circl_data_sol08.pdf
+file_size: 139970
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
