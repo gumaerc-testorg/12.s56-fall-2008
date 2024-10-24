@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on how GPS works.
-file: /courses/12-s56-gps-where-are-you-fall-2008/5696d4ed3fabeef71af89c6cb84f8c2b_sem04.pdf
+file: /ol-ocw-studio-app/courses/12-s56-gps-where-are-you-fall-2008/5696d4ed3fabeef71af89c6cb84f8c2b_sem04.pdf
 file_size: 1329185
 file_type: application/pdf
 learning_resource_types:
