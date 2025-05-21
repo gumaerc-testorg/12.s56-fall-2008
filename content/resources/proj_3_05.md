@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental MATLAB file for Project 3.
-file: /ol-ocw-studio-app/courses/12-s56-gps-where-are-you-fall-2008/fb8741786b0131f2e8e6a6c87b68cf71_Proj_3_05.m
+file: /courses/12-s56-gps-where-are-you-fall-2008/fb8741786b0131f2e8e6a6c87b68cf71_Proj_3_05.m
 file_size: 3448
 file_type: text/plain
 learning_resource_types:
