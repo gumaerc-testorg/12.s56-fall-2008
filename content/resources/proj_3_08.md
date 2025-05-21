@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to an assignment on analysis of EDM results.
-file: /ol-ocw-studio-app/courses/12-s56-gps-where-are-you-fall-2008/922e041b2185a147e8aa7115346a3888_Proj_3_08.m
+file: /courses/12-s56-gps-where-are-you-fall-2008/922e041b2185a147e8aa7115346a3888_Proj_3_08.m
 file_size: 3692
 file_type: text/plain
 learning_resource_types:

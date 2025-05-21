@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on general application areas of GPS and precise
   GPS applications for geophysics.
-file: /ol-ocw-studio-app/courses/12-s56-gps-where-are-you-fall-2008/4ea3bba0cefce9ece106d87826d07918_sem09.pdf
+file: /courses/12-s56-gps-where-are-you-fall-2008/4ea3bba0cefce9ece106d87826d07918_sem09.pdf
 file_size: 61050
 file_type: application/pdf
 learning_resource_types:
