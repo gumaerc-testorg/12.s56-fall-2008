@@ -38,7 +38,7 @@
   },
   "course_title": "GPS: Where Are You?",
   "hide_download": false,
-  "course_description": "This is a {{% resource_link \"530ffb8b-fc98-4b29-a410-04b7feb2fe14\" \"freshman advising seminar\" %}}. The professor of a FAS is the first year advisor to the (no more than 8) students in the seminar.\n\nThe use of Global Positioning System (GPS) in a wide variety of applications has exploded in the last few years. In this seminar we explore how positions on the Earth were determined before GPS; how GPS itself works and the range of applications in which GPS is now a critical element. This seminar is followed by a {{% resource_link \"49e44292-9ea6-484c-8927-2ca35e7af6bc\" \"UROP\" %}} research project in the spring semester where results from precise GPS measurements will be analyzed and displayed on the Web.",
+  "course_description": "This is a [freshman advising seminar](https://catalog.mit.edu/mit/undergraduate-education/academic-research-options/freshman-advising-seminars/). The professor of a FAS is the first year advisor to the (no more than 8) students in the seminar.\n\nThe use of Global Positioning System (GPS) in a wide variety of applications has exploded in the last few years. In this seminar we explore how positions on the Earth were determined before GPS; how GPS itself works and the range of applications in which GPS is now a critical element. This seminar is followed by a [UROP](http://web.mit.edu/urop/) research project in the spring semester where results from precise GPS measurements will be analyzed and displayed on the Web.",
   "department_numbers": [
     "12"
   ],
